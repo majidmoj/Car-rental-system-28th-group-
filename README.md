@@ -11,7 +11,7 @@ A C++ compiler (e.g., GCC, Clang, MSVC)
 Basic understanding of command-line operations
 
 ### Installation
-1-Download and extract the project files from CENG201_Project.zip.
+1-Download and extract the project files from CENG201_28th_group_project.
 2-Navigate to the project directory in your terminal or command prompt.
 ### Compilation
 To compile the project, open a new terminal in vs code and use the following commands:
@@ -54,3 +54,8 @@ We are five members in the group and we all contributed to make the project;
 4-Mahmodd Maho, 19050141007; handled Reservation.cpp and Reservation.h files
 
 5-Ahmet Hakan, 20050141002; handled test.cpp, User.cpp, and User.h files
+
+---------------------------------------------------------------------------------
+### Here is the zip file for the project
+
+[CENG201_28th_group_project.zip](https://github.com/majidmoj/Car-rental-system-28th-group-/files/13893835/CENG201_28th_group_project.zip)
